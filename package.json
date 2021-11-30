@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/selwynng343/Practice_Website_1#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   }
 }
